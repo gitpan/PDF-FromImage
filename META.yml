@@ -20,4 +20,4 @@ requires:
   Moose: 0
   PDF::API2: 0
   perl: 5.8.1
-version: 0.000001
+version: 0.000002
